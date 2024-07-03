@@ -1,0 +1,1 @@
+Diwali, the festival of lights, is one of the most significant festivals in India, often leading to a surge in sales across various industries. This project aims to analyze Diwali sales data to uncover insights into sales trends, customer behavior, and product performance.
